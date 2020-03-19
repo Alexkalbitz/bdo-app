@@ -1,0 +1,6827 @@
+{
+    "recipes": [
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Legendary Beast's Blood",
+                    "6351"
+                ],
+                [
+                    "5",
+                    "Fire Flake Flower",
+                    "5403"
+                ],
+                [
+                    "6",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "3",
+                    "Black Stone Powder",
+                    "4901"
+                ]
+            ],
+            "box": [
+                "9869",
+                "15"
+            ],
+            "exp": "920",
+            "id": "1",
+            "items": [
+                "6351",
+                "5403",
+                "5001",
+                "4901"
+            ],
+            "name": "Elixir of Amity",
+            "result": [
+                "664",
+                "665"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "4",
+                    "Blood 3",
+                    "18"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "2",
+                    "MP Potion (Small)",
+                    "520"
+                ]
+            ],
+            "box": [
+                "9866",
+                "12"
+            ],
+            "exp": "460",
+            "id": "10",
+            "items": [
+                "5302",
+                "6203",
+                "6212",
+                "6210",
+                "6656",
+                "520"
+            ],
+            "name": "Elixir of Energy",
+            "result": [
+                "682",
+                "683"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Destruction",
+                    "5216"
+                ],
+                [
+                    "2",
+                    "Sapphire",
+                    "4454"
+                ],
+                [
+                    "2",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "100",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5216",
+                "4454",
+                "6353",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Submergence",
+            "result": [
+                "15147"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Abundance",
+                    "5204"
+                ],
+                [
+                    "3",
+                    "Topaz",
+                    "4457"
+                ],
+                [
+                    "2",
+                    "Wise Man's Blood",
+                    "6355"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "101",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5204",
+                "4457",
+                "6355",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Melee Attack",
+            "result": [
+                "15148"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Nature",
+                    "5206"
+                ],
+                [
+                    "3",
+                    "Emerald",
+                    "4460"
+                ],
+                [
+                    "2",
+                    "Legendary Beast's Blood",
+                    "6351"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "102",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5206",
+                "4460",
+                "6351",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Ranged Attack",
+            "result": [
+                "15149"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of the Sun",
+                    "5208"
+                ],
+                [
+                    "3",
+                    "Diamond",
+                    "4463"
+                ],
+                [
+                    "2",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "103",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5208",
+                "4463",
+                "6354",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Magic Attack",
+            "result": [
+                "15150"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Askasha's Broken Magic Weapon I",
+                    "42395"
+                ],
+                [
+                    "1",
+                    "Askasha's Broken Magic Weapon II",
+                    "42396"
+                ],
+                [
+                    "1",
+                    "Askasha's Broken Magic Weapon III",
+                    "42397"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "104",
+            "items": [
+                "42395",
+                "42396",
+                "42397"
+            ],
+            "name": "Askasha's Repaired Magic Weapon",
+            "result": [
+                "42398"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Ardan's Broken Jewel I",
+                    "42399"
+                ],
+                [
+                    "1",
+                    "Ardan's Broken Jewel II",
+                    "42400"
+                ],
+                [
+                    "1",
+                    "Ardan's Broken Jewel III",
+                    "42401"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "105",
+            "items": [
+                "42399",
+                "42400",
+                "42401"
+            ],
+            "name": "Ardan's Jewel",
+            "result": [
+                "42402"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Silver Azalea",
+                    "5402"
+                ],
+                [
+                    "1",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "4",
+                    "Blood 4",
+                    "15"
+                ],
+                [
+                    "5",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [
+                "9870",
+                "27"
+            ],
+            "exp": "460",
+            "id": "11",
+            "items": [
+                "5402",
+                "5001",
+                "6213",
+                "6220",
+                "6221",
+                "6207",
+                "6656"
+            ],
+            "name": "Elixir of Wings",
+            "result": [
+                "684",
+                "685"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Tranquility",
+                    "6605"
+                ],
+                [
+                    "6",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "2",
+                    "Ancient Mushroom",
+                    "5418"
+                ],
+                [
+                    "7",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "2",
+                    "Trace of Death",
+                    "5962"
+                ]
+            ],
+            "box": [
+                "9871",
+                "9"
+            ],
+            "exp": "920",
+            "id": "12",
+            "items": [
+                "6605",
+                "5301",
+                "5418",
+                "5001",
+                "5962"
+            ],
+            "name": "Elixir of Death",
+            "result": [
+                "686",
+                "687"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Wise Man's Blood",
+                    "6355"
+                ],
+                [
+                    "5",
+                    "Fortune Teller Mushroom",
+                    "5407"
+                ],
+                [
+                    "5",
+                    "Pine Sap",
+                    "5003"
+                ],
+                [
+                    "2",
+                    "Powder of Darkness",
+                    "4801"
+                ]
+            ],
+            "box": [
+                "9868",
+                "15"
+            ],
+            "exp": "920",
+            "id": "13",
+            "items": [
+                "6355",
+                "5407",
+                "5003",
+                "4801"
+            ],
+            "name": "Elixir of Wind",
+            "result": [
+                "688",
+                "689"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Legendary Beast's Blood",
+                    "6351"
+                ],
+                [
+                    "5",
+                    "Arrow Mushroom",
+                    "5408"
+                ],
+                [
+                    "5",
+                    "Birch Sap",
+                    "5004"
+                ],
+                [
+                    "2",
+                    "Powder of Darkness",
+                    "4801"
+                ]
+            ],
+            "box": [
+                "9869",
+                "15"
+            ],
+            "exp": "920",
+            "id": "14",
+            "items": [
+                "6351",
+                "5408",
+                "5004",
+                "4801"
+            ],
+            "name": "Elixir of Swiftness",
+            "result": [
+                "690",
+                "691"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Tyrant's Blood",
+                    "6352"
+                ],
+                [
+                    "5",
+                    "Fire Flake Flower",
+                    "5403"
+                ],
+                [
+                    "3",
+                    "Maple Sap",
+                    "5002"
+                ],
+                [
+                    "2",
+                    "Powder of Darkness",
+                    "4801"
+                ]
+            ],
+            "box": [
+                "9869",
+                "15"
+            ],
+            "exp": "920",
+            "id": "15",
+            "items": [
+                "6352",
+                "5403",
+                "5002",
+                "4801"
+            ],
+            "name": "Elixir of Spells",
+            "result": [
+                "692",
+                "693"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "3",
+                    "Dwarf Mushroom",
+                    "5409"
+                ],
+                [
+                    "1",
+                    "Birch Sap",
+                    "5004"
+                ],
+                [
+                    "4",
+                    "Blood 1",
+                    "16"
+                ],
+                [
+                    "5",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [
+                "9866",
+                "12"
+            ],
+            "exp": "460",
+            "id": "16",
+            "items": [
+                "5409",
+                "5004",
+                "6214",
+                "6218",
+                "6204",
+                "6216",
+                "6656"
+            ],
+            "name": "Elixir of Seal",
+            "result": [
+                "694",
+                "695"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Regeneration",
+                    "6601"
+                ],
+                [
+                    "5",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "4",
+                    "Amanita Mushroom",
+                    "5419"
+                ],
+                [
+                    "2",
+                    "Red Tree Lump",
+                    "5011"
+                ],
+                [
+                    "2",
+                    "Trace of Memory",
+                    "5963"
+                ]
+            ],
+            "box": [
+                "9870",
+                "15"
+            ],
+            "exp": "1610",
+            "id": "17",
+            "items": [
+                "6601",
+                "5302",
+                "5419",
+                "5011",
+                "5963"
+            ],
+            "name": "Elixir of Assassination",
+            "result": [
+                "696",
+                "697"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Blue Whale Tendon",
+                    "9729"
+                ],
+                [
+                    "3",
+                    "HP Potion (Medium)",
+                    "518"
+                ],
+                [
+                    "3",
+                    "MP Potion (Medium)",
+                    "521"
+                ],
+                [
+                    "8",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "178",
+            "items": [
+                "9729",
+                "518",
+                "521",
+                "6656"
+            ],
+            "name": "Whale Tendon Potion",
+            "result": [
+                "575",
+                "576"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Blue Whale Tendon",
+                    "9729"
+                ],
+                [
+                    "1",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "12",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "5",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "2",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "179",
+            "items": [
+                "9729",
+                "6353",
+                "5001",
+                "6656",
+                "5301"
+            ],
+            "name": "Whale Tendon Elixir",
+            "result": [
+                "732",
+                "733"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Storms",
+                    "6602"
+                ],
+                [
+                    "6",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "3",
+                    "Truffle Mushroom",
+                    "5420"
+                ],
+                [
+                    "2",
+                    "Old Tree Bark",
+                    "5008"
+                ],
+                [
+                    "3",
+                    "Trace of Savagery",
+                    "5956"
+                ]
+            ],
+            "box": [
+                "9871",
+                "9"
+            ],
+            "exp": "1610",
+            "id": "18",
+            "items": [
+                "6602",
+                "5302",
+                "5420",
+                "5008",
+                "5956"
+            ],
+            "name": "Elixir of Detection",
+            "result": [
+                "698",
+                "699"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Blue Whale Oil",
+                    "9727"
+                ],
+                [
+                    "3",
+                    "Trace of Violence",
+                    "5961"
+                ],
+                [
+                    "6",
+                    "Bloody Tree Knot",
+                    "5005"
+                ],
+                [
+                    "4",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "2",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ]
+            ],
+            "box": [],
+            "exp": "2000",
+            "id": "180",
+            "items": [
+                "9727",
+                "5961",
+                "5005",
+                "6656",
+                "5301"
+            ],
+            "name": "Perfume of Courage",
+            "result": [
+                "734"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Blue Whale Oil",
+                    "9727"
+                ],
+                [
+                    "4",
+                    "Powder of Time",
+                    "4805"
+                ],
+                [
+                    "6",
+                    "Everlasting Herb",
+                    "5406"
+                ],
+                [
+                    "4",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "2",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ]
+            ],
+            "box": [],
+            "exp": "2000",
+            "id": "181",
+            "items": [
+                "9727",
+                "4805",
+                "5406",
+                "6656",
+                "5301"
+            ],
+            "name": "Perfume of Swiftness",
+            "result": [
+                "735"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Fugitive Khalk's Skin",
+                    "9736"
+                ],
+                [
+                    "10",
+                    "White Cedar Sap",
+                    "5012"
+                ],
+                [
+                    "5",
+                    "Trace of Chaos",
+                    "5951"
+                ],
+                [
+                    "4",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "2",
+                    "Oil of Corruption",
+                    "6604"
+                ]
+            ],
+            "box": [],
+            "exp": "2000",
+            "id": "182",
+            "items": [
+                "9736",
+                "5012",
+                "5951",
+                "6656",
+                "6604"
+            ],
+            "name": "Khalk's Elixir",
+            "result": [
+                "748"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "1",
+                    "Magic Crystal of Enchantment - Vision",
+                    "15019"
+                ],
+                [
+                    "1",
+                    "Herbal Gunpowder",
+                    "5604"
+                ],
+                [
+                    "1",
+                    "Sticky Liquid",
+                    "44084"
+                ],
+                [
+                    "5",
+                    "Black Stone Powder",
+                    "4901"
+                ]
+            ],
+            "box": [
+                "9870",
+                "12"
+            ],
+            "exp": "1100",
+            "id": "183",
+            "items": [
+                "6354",
+                "15019",
+                "5604",
+                "44084",
+                "4901"
+            ],
+            "name": "Marking Reagent",
+            "result": [
+                "761"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "3",
+                    "Cloud Mushroom",
+                    "5410"
+                ],
+                [
+                    "2",
+                    "Wild Grass",
+                    "5439"
+                ],
+                [
+                    "3",
+                    "Blood 4",
+                    "15"
+                ]
+            ],
+            "box": [
+                "9869",
+                "27"
+            ],
+            "exp": "460",
+            "id": "19",
+            "items": [
+                "5301",
+                "5410",
+                "5439",
+                "6213",
+                "6220",
+                "6221",
+                "6207"
+            ],
+            "name": "Elixir of Concentration",
+            "result": [
+                "700",
+                "701"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Legendary Beast's Blood",
+                    "6351"
+                ],
+                [
+                    "7",
+                    "Silver Azalea",
+                    "5402"
+                ],
+                [
+                    "4",
+                    "Pine Sap",
+                    "5003"
+                ],
+                [
+                    "2",
+                    "Powder of Crevice",
+                    "4803"
+                ]
+            ],
+            "box": [
+                "9868",
+                "15"
+            ],
+            "exp": "920",
+            "id": "191",
+            "items": [
+                "6351",
+                "5402",
+                "5003",
+                "4803"
+            ],
+            "name": "Elixir of Training",
+            "result": [
+                "753",
+                "754"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Wise Man's Blood",
+                    "6355"
+                ],
+                [
+                    "6",
+                    "Fire Flake Flower",
+                    "5403"
+                ],
+                [
+                    "2",
+                    "Powder of Time",
+                    "4805"
+                ],
+                [
+                    "5",
+                    "Maple Sap",
+                    "5002"
+                ]
+            ],
+            "box": [
+                "9868",
+                "15"
+            ],
+            "exp": "920",
+            "id": "192",
+            "items": [
+                "6355",
+                "5403",
+                "4805",
+                "5002"
+            ],
+            "name": "Elixir of Time",
+            "result": [
+                "749",
+                "750"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "4",
+                    "Sunrise Herb",
+                    "5401"
+                ],
+                [
+                    "6",
+                    "Blood 1",
+                    "16"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [
+                "9866",
+                "12"
+            ],
+            "exp": "460",
+            "id": "20",
+            "items": [
+                "5302",
+                "5401",
+                "6214",
+                "6218",
+                "6204",
+                "6216",
+                "6656"
+            ],
+            "name": "Elixir of Will",
+            "result": [
+                "702",
+                "703"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "5",
+                    "Tiger Mushroom",
+                    "5412"
+                ],
+                [
+                    "7",
+                    "Cedar Sap",
+                    "5010"
+                ],
+                [
+                    "3",
+                    "Powder of Time",
+                    "4805"
+                ]
+            ],
+            "box": [
+                "9867",
+                "18"
+            ],
+            "exp": "920",
+            "id": "203",
+            "items": [
+                "6353",
+                "5412",
+                "5010",
+                "4805"
+            ],
+            "name": "Elixir of Shock",
+            "result": [
+                "762",
+                "763"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of the Abyss",
+                    "6606"
+                ],
+                [
+                    "2",
+                    "Coral Crystal",
+                    "6533"
+                ],
+                [
+                    "5",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "5",
+                    "Arrow Mushroom",
+                    "5408"
+                ],
+                [
+                    "5",
+                    "White Cedar Sap",
+                    "5012"
+                ]
+            ],
+            "box": [],
+            "exp": "2000",
+            "id": "207",
+            "items": [
+                "6606",
+                "6533",
+                "5301",
+                "5408",
+                "5012"
+            ],
+            "name": "Elixir of Deep Sea",
+            "result": [
+                "771"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "4",
+                    "Dwarf Mushroom",
+                    "5409"
+                ],
+                [
+                    "1",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "4",
+                    "Blood 4",
+                    "15"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [
+                "9868",
+                "15"
+            ],
+            "exp": "460",
+            "id": "21",
+            "items": [
+                "5409",
+                "5001",
+                "6213",
+                "6220",
+                "6221",
+                "6207",
+                "6656"
+            ],
+            "name": "Elixir of Fury",
+            "result": [
+                "704",
+                "705"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Dead Tree Essence",
+                    "5019"
+                ],
+                [
+                    "1",
+                    "Fruit of Nature",
+                    "5205"
+                ],
+                [
+                    "10",
+                    "Loopy Tree Sap",
+                    "5018"
+                ],
+                [
+                    "10",
+                    "Powder of Darkness",
+                    "4801"
+                ],
+                [
+                    "2",
+                    "Violet Flower",
+                    "5526"
+                ]
+            ],
+            "box": [],
+            "exp": "2000",
+            "id": "216",
+            "items": [
+                "5019",
+                "5205",
+                "5018",
+                "4801",
+                "5526"
+            ],
+            "name": "Spirit Perfume Elixir",
+            "result": [
+                "781"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Griffon Claw",
+                    "9741"
+                ],
+                [
+                    "6",
+                    "Cedar Sap",
+                    "5010"
+                ],
+                [
+                    "3",
+                    "Trace of Battle",
+                    "5958"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "2",
+                    "Sinner's Blood",
+                    "6354"
+                ]
+            ],
+            "box": [
+                "9871",
+                "9"
+            ],
+            "exp": "920",
+            "id": "217",
+            "items": [
+                "9741",
+                "5010",
+                "5958",
+                "6656",
+                "6354"
+            ],
+            "name": "Griffon's Elixir",
+            "result": [
+                "740"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "4",
+                    "Moss Tree Sap",
+                    "5017"
+                ],
+                [
+                    "2",
+                    "Volcanic Umbrella Mushroom",
+                    "5517"
+                ],
+                [
+                    "3",
+                    "Powder of Flame",
+                    "4802"
+                ],
+                [
+                    "5",
+                    "Red Tree Lump",
+                    "5011"
+                ],
+                [
+                    "1",
+                    "Violet Flower",
+                    "5526"
+                ]
+            ],
+            "box": [
+                "9869",
+                "12"
+            ],
+            "exp": "920",
+            "id": "218",
+            "items": [
+                "5017",
+                "5517",
+                "4802",
+                "5011",
+                "5526"
+            ],
+            "name": "Looney Elixir",
+            "result": [
+                "777"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "4",
+                    "Moss Tree Sap",
+                    "5017"
+                ],
+                [
+                    "2",
+                    "Blue Umbrella Mushroom",
+                    "5516"
+                ],
+                [
+                    "3",
+                    "Powder of Time",
+                    "4805"
+                ],
+                [
+                    "5",
+                    "Monk's Branch",
+                    "5007"
+                ],
+                [
+                    "1",
+                    "Sky Blue Flower",
+                    "5525"
+                ]
+            ],
+            "box": [
+                "9868",
+                "15"
+            ],
+            "exp": "920",
+            "id": "219",
+            "items": [
+                "5017",
+                "5516",
+                "4805",
+                "5007",
+                "5525"
+            ],
+            "name": "Weenie Elixir",
+            "result": [
+                "773",
+                "774"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "3",
+                    "Cloud Mushroom",
+                    "5410"
+                ],
+                [
+                    "1",
+                    "Birch Sap",
+                    "5004"
+                ],
+                [
+                    "7",
+                    "Blood 1",
+                    "16"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [
+                "9867",
+                "12"
+            ],
+            "exp": "460",
+            "id": "22",
+            "items": [
+                "5410",
+                "5004",
+                "6214",
+                "6218",
+                "6204",
+                "6216",
+                "6656"
+            ],
+            "name": "Elixir of Resistance",
+            "result": [
+                "706",
+                "707"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "1",
+                    "Fruit of Abundance",
+                    "5203"
+                ],
+                [
+                    "2",
+                    "Polished Opal",
+                    "4260"
+                ],
+                [
+                    "2",
+                    "Everlasting Herb",
+                    "5406"
+                ],
+                [
+                    "1",
+                    "Magic Crystal of Enchantment - Experience",
+                    "15031"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "220",
+            "items": [
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5203",
+                "4260",
+                "5406",
+                "15031"
+            ],
+            "name": "Magic Crystal of Infinity - Experience",
+            "result": [
+                "15125"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Incomplete First Element",
+                    "42411"
+                ],
+                [
+                    "1",
+                    "Arenda's Special Synthesis Base",
+                    "42412"
+                ],
+                [
+                    "1",
+                    "Oil of Regeneration",
+                    "6601"
+                ],
+                [
+                    "2",
+                    "Trace of Memory",
+                    "5963"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "223",
+            "items": [
+                "42411",
+                "42412",
+                "6601",
+                "5963"
+            ],
+            "name": "Elixir of Fond Memories",
+            "result": [
+                "42413"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "10",
+                    "Shining Powder",
+                    "9733"
+                ],
+                [
+                    "3",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "5",
+                    "Powder of Time",
+                    "4805"
+                ],
+                [
+                    "10",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "10",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "224",
+            "items": [
+                "9733",
+                "6354",
+                "4805",
+                "5302",
+                "5301"
+            ],
+            "name": "Broken Alchemy Stone Shard",
+            "result": [
+                "9734"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "3",
+                    "Silver Azalea",
+                    "5402"
+                ],
+                [
+                    "5",
+                    "Blood 3",
+                    "18"
+                ],
+                [
+                    "3",
+                    "HP Potion (Small)",
+                    "517"
+                ]
+            ],
+            "box": [
+                "9866",
+                "12"
+            ],
+            "exp": "460",
+            "id": "23",
+            "items": [
+                "5302",
+                "5402",
+                "6203",
+                "6212",
+                "6210",
+                "517"
+            ],
+            "name": "Elixir of Life",
+            "result": [
+                "708",
+                "709"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "4",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "3",
+                    "MP Potion (Small)",
+                    "520"
+                ]
+            ],
+            "box": [
+                "9866",
+                "15"
+            ],
+            "exp": "460",
+            "id": "24",
+            "items": [
+                "5301",
+                "5001",
+                "6656",
+                "520"
+            ],
+            "name": "Elixir of Mentality",
+            "result": [
+                "710",
+                "711"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Fortitude",
+                    "6603"
+                ],
+                [
+                    "4",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "2",
+                    "Sky Mushroom",
+                    "5411"
+                ],
+                [
+                    "2",
+                    "Monk's Branch",
+                    "5007"
+                ],
+                [
+                    "4",
+                    "Trace of Origin",
+                    "5957"
+                ]
+            ],
+            "box": [
+                "9871",
+                "9"
+            ],
+            "exp": "1610",
+            "id": "25",
+            "items": [
+                "6603",
+                "5302",
+                "5411",
+                "5007",
+                "5957"
+            ],
+            "name": "Grim Reaper's Elixir",
+            "result": [
+                "712",
+                "713"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "7",
+                    "Dry Mane Grass",
+                    "5404"
+                ],
+                [
+                    "5",
+                    "Pine Sap",
+                    "5003"
+                ],
+                [
+                    "2",
+                    "Powder of Flame",
+                    "4802"
+                ]
+            ],
+            "box": [
+                "9867",
+                "21"
+            ],
+            "exp": "920",
+            "id": "26",
+            "items": [
+                "6353",
+                "5404",
+                "5003",
+                "4802"
+            ],
+            "name": "EXP Elixir",
+            "result": [
+                "714",
+                "715"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "6",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "5",
+                    "Blood 2",
+                    "17"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [
+                "9868",
+                "15"
+            ],
+            "exp": "460",
+            "id": "27",
+            "items": [
+                "5301",
+                "5001",
+                "6205",
+                "6201",
+                "6202",
+                "6215",
+                "6206",
+                "6656"
+            ],
+            "name": "Defense Elixir",
+            "result": [
+                "716",
+                "717"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Corruption",
+                    "6604"
+                ],
+                [
+                    "7",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "2",
+                    "Tiger Mushroom",
+                    "5412"
+                ],
+                [
+                    "2",
+                    "Spirit's Leaf",
+                    "5006"
+                ],
+                [
+                    "3",
+                    "Trace of the Earth",
+                    "5954"
+                ]
+            ],
+            "box": [
+                "9870",
+                "9"
+            ],
+            "exp": "1610",
+            "id": "28",
+            "items": [
+                "6604",
+                "5302",
+                "5412",
+                "5006",
+                "5954"
+            ],
+            "name": "Elixir of Carnage",
+            "result": [
+                "718",
+                "719"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Tranquility",
+                    "6605"
+                ],
+                [
+                    "6",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "1",
+                    "Emperor Mushroom",
+                    "5413"
+                ],
+                [
+                    "2",
+                    "Bloody Tree Knot",
+                    "5005"
+                ],
+                [
+                    "4",
+                    "Trace of Ascension",
+                    "5955"
+                ]
+            ],
+            "box": [
+                "9871",
+                "9"
+            ],
+            "exp": "1610",
+            "id": "29",
+            "items": [
+                "6605",
+                "5302",
+                "5413",
+                "5005",
+                "5955"
+            ],
+            "name": "Elixir of Sky",
+            "result": [
+                "720",
+                "721"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "3",
+                    "Sunrise Herb",
+                    "5401"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "2",
+                    "HP Potion (Small)",
+                    "517"
+                ]
+            ],
+            "box": [
+                "9866",
+                "21"
+            ],
+            "exp": "460",
+            "id": "3",
+            "items": [
+                "5301",
+                "5401",
+                "6656",
+                "517"
+            ],
+            "name": "Resurrection Elixir",
+            "result": [
+                "668",
+                "669"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "2",
+                    "Dwarf Mushroom",
+                    "5409"
+                ],
+                [
+                    "5",
+                    "Birch Sap",
+                    "5004"
+                ],
+                [
+                    "4",
+                    "Blood 4",
+                    "15"
+                ]
+            ],
+            "box": [
+                "9869",
+                "24"
+            ],
+            "exp": "460",
+            "id": "30",
+            "items": [
+                "5302",
+                "5409",
+                "5004",
+                "6213",
+                "6220",
+                "6221",
+                "6207"
+            ],
+            "name": "Elixir of Endurance",
+            "result": [
+                "722",
+                "723"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "6",
+                    "Silver Azalea",
+                    "5402"
+                ],
+                [
+                    "4",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "2",
+                    "Powder of Flame",
+                    "4802"
+                ]
+            ],
+            "box": [
+                "9867",
+                "24"
+            ],
+            "exp": "920",
+            "id": "31",
+            "items": [
+                "6354",
+                "5402",
+                "5001",
+                "4802"
+            ],
+            "name": "Worker's Elixir",
+            "result": [
+                "724",
+                "725"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Wise Man's Blood",
+                    "6355"
+                ],
+                [
+                    "6",
+                    "Sunrise Herb",
+                    "5401"
+                ],
+                [
+                    "3",
+                    "Fir Sap",
+                    "5009"
+                ],
+                [
+                    "2",
+                    "Powder of Flame",
+                    "4802"
+                ]
+            ],
+            "box": [
+                "9868",
+                "15"
+            ],
+            "exp": "920",
+            "id": "32",
+            "items": [
+                "6355",
+                "5401",
+                "5009",
+                "4802"
+            ],
+            "name": "Fisher's Elixir",
+            "result": [
+                "726",
+                "727"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Tyrant's Blood",
+                    "6352"
+                ],
+                [
+                    "1",
+                    "Deep Sea Fruit",
+                    "5217"
+                ],
+                [
+                    "2",
+                    "Powder of Time",
+                    "4805"
+                ],
+                [
+                    "2",
+                    "Bloody Tree Knot",
+                    "5005"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "325",
+            "items": [
+                "6352",
+                "5217",
+                "4805",
+                "5005"
+            ],
+            "name": "Oil of the Abyss",
+            "result": [
+                "6606"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "1",
+                    "Purified Water",
+                    "6656"
+                ],
+                [
+                    "2",
+                    "Fruits",
+                    "3"
+                ],
+                [
+                    "2",
+                    "Wild Grass",
+                    "5439"
+                ]
+            ],
+            "box": [],
+            "exp": "400",
+            "id": "33",
+            "items": [
+                "5301",
+                "6656",
+                "7313",
+                "7304",
+                "7307",
+                "7314",
+                "7315",
+                "7316",
+                "7317",
+                "5439"
+            ],
+            "name": "Elixir of Burn Removal",
+            "result": [
+                "728"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of the Sun - Boulder",
+                    "15030"
+                ],
+                [
+                    "1",
+                    "Fruit of Crimson Flame",
+                    "5201"
+                ],
+                [
+                    "3",
+                    "Maple Sap",
+                    "5002"
+                ],
+                [
+                    "1",
+                    "Diamond",
+                    "4463"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "332",
+            "items": [
+                "15030",
+                "5201",
+                "5002",
+                "4463",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Strength",
+            "result": [
+                "15120"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Top-Quality Cooking Honey",
+                    "7704"
+                ],
+                [
+                    "5",
+                    "Fruit of Abundance",
+                    "5203"
+                ],
+                [
+                    "1",
+                    "Essence of Liquor",
+                    "9057"
+                ],
+                [
+                    "2",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "338",
+            "items": [
+                "7704",
+                "5203",
+                "9057",
+                "6656"
+            ],
+            "name": "Special Honey Jar",
+            "result": [
+                "54032"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "1",
+                    "Wild Grass",
+                    "5439"
+                ],
+                [
+                    "2",
+                    "Blood 2",
+                    "17"
+                ],
+                [
+                    "3",
+                    "Olive Oil",
+                    "9015"
+                ]
+            ],
+            "box": [],
+            "exp": "400",
+            "id": "34",
+            "items": [
+                "5302",
+                "5439",
+                "6205",
+                "6201",
+                "6202",
+                "6215",
+                "6206",
+                "9015"
+            ],
+            "name": "Antidote Elixir",
+            "result": [
+                "729"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "6",
+                    "Thuja Sap",
+                    "5020"
+                ],
+                [
+                    "3",
+                    "Monk's Branch",
+                    "5007"
+                ],
+                [
+                    "2",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "2",
+                    "Powder of Flame",
+                    "4802"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [
+                "9870",
+                "12"
+            ],
+            "exp": "0",
+            "id": "345",
+            "items": [
+                "5020",
+                "5007",
+                "6353",
+                "4802",
+                "6656"
+            ],
+            "name": "Helix Elixir",
+            "result": [
+                "782",
+                "783"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "10",
+                    "Shining Powder",
+                    "9733"
+                ],
+                [
+                    "3",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "5",
+                    "Powder of Time",
+                    "4805"
+                ],
+                [
+                    "10",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "10",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "349",
+            "items": [
+                "9733",
+                "6354",
+                "4805",
+                "5302",
+                "5301"
+            ],
+            "name": "Imperfect Alchemy Stone of Destruction",
+            "result": [
+                "45201",
+                "45233",
+                "45265"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "1",
+                    "Cloud Mushroom",
+                    "5410"
+                ],
+                [
+                    "1",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "3",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [],
+            "exp": "400",
+            "id": "35",
+            "items": [
+                "5302",
+                "5410",
+                "5001",
+                "6656"
+            ],
+            "name": "Elixir of Hemostasis",
+            "result": [
+                "730"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "50",
+                    "Mystical Spirit Powder",
+                    "4924"
+                ],
+                [
+                    "5",
+                    "Flawless Spirit Stone",
+                    "5305"
+                ],
+                [
+                    "50",
+                    "Metal Solvent",
+                    "4076"
+                ],
+                [
+                    "5",
+                    "Cron Stone",
+                    "16080"
+                ],
+                [
+                    "1",
+                    "Reagent of Harmonious Spirits",
+                    "5306"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "350",
+            "items": [
+                "4924",
+                "5305",
+                "4076",
+                "16080",
+                "5306"
+            ],
+            "name": "Sharp Spirit Stone of Destruction",
+            "result": [
+                "45335",
+                "45336",
+                "45337",
+                "45338",
+                "45339"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "50",
+                    "Mystical Spirit Powder",
+                    "4924"
+                ],
+                [
+                    "5",
+                    "Flawless Spirit Stone",
+                    "5305"
+                ],
+                [
+                    "50",
+                    "Metal Solvent",
+                    "4076"
+                ],
+                [
+                    "5",
+                    "Cron Stone",
+                    "16080"
+                ],
+                [
+                    "1",
+                    "Reagent of Harmonious Spirits",
+                    "5306"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "351",
+            "items": [
+                "4924",
+                "5305",
+                "4076",
+                "16080",
+                "5306"
+            ],
+            "name": "Sharp Spirit Stone of Protection",
+            "result": [
+                "45341",
+                "45342",
+                "45343",
+                "45344",
+                "45345"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "50",
+                    "Sunrise Herb",
+                    "5401"
+                ],
+                [
+                    "50",
+                    "Silver Azalea",
+                    "5402"
+                ],
+                [
+                    "50",
+                    "Fire Flake Flower",
+                    "5403"
+                ],
+                [
+                    "50",
+                    "Dry Mane Grass",
+                    "5404"
+                ],
+                [
+                    "50",
+                    "Silk Honey Grass",
+                    "5405"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "353",
+            "items": [
+                "5401",
+                "5402",
+                "5403",
+                "5404",
+                "5405"
+            ],
+            "name": "Tenacious Origin of Life",
+            "result": [
+                "5303"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "50",
+                    "Translucent Crystal",
+                    "4466"
+                ],
+                [
+                    "50",
+                    "Mud Crystal",
+                    "4467"
+                ],
+                [
+                    "50",
+                    "Black Crystal",
+                    "4470"
+                ],
+                [
+                    "50",
+                    "Blue Crystal",
+                    "4483"
+                ],
+                [
+                    "50",
+                    "Violet Crystal",
+                    "4485"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "354",
+            "items": [
+                "4466",
+                "4467",
+                "4470",
+                "4483",
+                "4485"
+            ],
+            "name": "Rough Opulent Crystal",
+            "result": [
+                "5304"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "10",
+                    "Oil of Tranquility",
+                    "6605"
+                ],
+                [
+                    "4",
+                    "Tenacious Origin of Life",
+                    "5303"
+                ],
+                [
+                    "4",
+                    "Rough Opulent Crystal",
+                    "5304"
+                ]
+            ],
+            "box": [],
+            "exp": "0",
+            "id": "355",
+            "items": [
+                "6605",
+                "5303",
+                "5304"
+            ],
+            "name": "Flawless Spirit Stone",
+            "result": [
+                "5305"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "3",
+                    "Melted Iron Shard",
+                    "4051"
+                ],
+                [
+                    "4",
+                    "Rough Stone",
+                    "4006"
+                ],
+                [
+                    "2",
+                    "Trace of Savagery",
+                    "5956"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "36",
+            "items": [
+                "5301",
+                "4051",
+                "4006",
+                "5956"
+            ],
+            "name": "Metal Solvent",
+            "result": [
+                "4076"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "4",
+                    "Processed Coal",
+                    "4070"
+                ],
+                [
+                    "2",
+                    "Trace of Origin",
+                    "5957"
+                ],
+                [
+                    "6",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "37",
+            "items": [
+                "5302",
+                "4070",
+                "5957",
+                "6656"
+            ],
+            "name": "Gem Polisher",
+            "result": [
+                "4481"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "3",
+                    "Bloody Tree Knot",
+                    "5005"
+                ],
+                [
+                    "4",
+                    "Fir Sap",
+                    "5009"
+                ],
+                [
+                    "3",
+                    "Trace of the Earth",
+                    "5954"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "38",
+            "items": [
+                "5302",
+                "5005",
+                "5009",
+                "5954"
+            ],
+            "name": "Plywood Hardener",
+            "result": [
+                "4684"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Fruit of Crimson Flame",
+                    "5201"
+                ],
+                [
+                    "3",
+                    "Dwarf Mushroom",
+                    "5409"
+                ],
+                [
+                    "4",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "2",
+                    "Trace of Ascension",
+                    "5955"
+                ]
+            ],
+            "box": [],
+            "exp": "900",
+            "id": "39",
+            "items": [
+                "5201",
+                "5409",
+                "5001",
+                "5955"
+            ],
+            "name": "Essence of Crimson Flame",
+            "result": [
+                "5202"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "4",
+                    "Fortune Teller Mushroom",
+                    "5407"
+                ],
+                [
+                    "4",
+                    "Maple Sap",
+                    "5002"
+                ],
+                [
+                    "3",
+                    "Black Stone Powder",
+                    "4901"
+                ]
+            ],
+            "box": [
+                "9867",
+                "18"
+            ],
+            "exp": "920",
+            "id": "4",
+            "items": [
+                "6353",
+                "5407",
+                "5002",
+                "4901"
+            ],
+            "name": "Elixir of Human Hunt",
+            "result": [
+                "670",
+                "671"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Fruit of Abundance",
+                    "5203"
+                ],
+                [
+                    "3",
+                    "Cloud Mushroom",
+                    "5410"
+                ],
+                [
+                    "4",
+                    "Birch Sap",
+                    "5004"
+                ],
+                [
+                    "2",
+                    "Trace of Ascension",
+                    "5955"
+                ]
+            ],
+            "box": [],
+            "exp": "900",
+            "id": "40",
+            "items": [
+                "5203",
+                "5410",
+                "5004",
+                "5955"
+            ],
+            "name": "Essence of Abundance",
+            "result": [
+                "5204"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Fruit of Nature",
+                    "5205"
+                ],
+                [
+                    "3",
+                    "Fortune Teller Mushroom",
+                    "5407"
+                ],
+                [
+                    "4",
+                    "Maple Sap",
+                    "5002"
+                ],
+                [
+                    "2",
+                    "Trace of the Earth",
+                    "5954"
+                ]
+            ],
+            "box": [],
+            "exp": "900",
+            "id": "41",
+            "items": [
+                "5205",
+                "5407",
+                "5002",
+                "5954"
+            ],
+            "name": "Essence of Nature",
+            "result": [
+                "5206"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Fruit of the Sun",
+                    "5207"
+                ],
+                [
+                    "3",
+                    "Arrow Mushroom",
+                    "5408"
+                ],
+                [
+                    "4",
+                    "Pine Sap",
+                    "5003"
+                ],
+                [
+                    "2",
+                    "Trace of the Earth",
+                    "5954"
+                ]
+            ],
+            "box": [],
+            "exp": "900",
+            "id": "42",
+            "items": [
+                "5207",
+                "5408",
+                "5003",
+                "5954"
+            ],
+            "name": "Essence of the Sun",
+            "result": [
+                "5208"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Fruit of Enchantment",
+                    "5209"
+                ],
+                [
+                    "3",
+                    "Fire Flake Flower",
+                    "5403"
+                ],
+                [
+                    "4",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "2",
+                    "Powder of Darkness",
+                    "4801"
+                ]
+            ],
+            "box": [],
+            "exp": "900",
+            "id": "43",
+            "items": [
+                "5209",
+                "5403",
+                "5001",
+                "4801"
+            ],
+            "name": "Essence of Enchantment",
+            "result": [
+                "5210"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Fruit of Magic Power",
+                    "5211"
+                ],
+                [
+                    "3",
+                    "Dry Mane Grass",
+                    "5404"
+                ],
+                [
+                    "4",
+                    "Birch Sap",
+                    "5004"
+                ],
+                [
+                    "2",
+                    "Powder of Darkness",
+                    "4801"
+                ]
+            ],
+            "box": [],
+            "exp": "900",
+            "id": "44",
+            "items": [
+                "5211",
+                "5404",
+                "5004",
+                "4801"
+            ],
+            "name": "Essence of Magic Power",
+            "result": [
+                "5212"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Fruit of Perfection",
+                    "5213"
+                ],
+                [
+                    "3",
+                    "Sunrise Herb",
+                    "5401"
+                ],
+                [
+                    "4",
+                    "Maple Sap",
+                    "5002"
+                ],
+                [
+                    "2",
+                    "Powder of Flame",
+                    "4802"
+                ]
+            ],
+            "box": [],
+            "exp": "900",
+            "id": "45",
+            "items": [
+                "5213",
+                "5401",
+                "5002",
+                "4802"
+            ],
+            "name": "Essence of Perfection",
+            "result": [
+                "5214"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "2",
+                    "Fruit of Destruction",
+                    "5215"
+                ],
+                [
+                    "3",
+                    "Silver Azalea",
+                    "5402"
+                ],
+                [
+                    "4",
+                    "Pine Sap",
+                    "5003"
+                ],
+                [
+                    "2",
+                    "Powder of Flame",
+                    "4802"
+                ]
+            ],
+            "box": [],
+            "exp": "900",
+            "id": "46",
+            "items": [
+                "5215",
+                "5402",
+                "5003",
+                "4802"
+            ],
+            "name": "Essence of Destruction",
+            "result": [
+                "5216"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Wild Grass",
+                    "5439"
+                ],
+                [
+                    "1",
+                    "Sunrise Herb",
+                    "5401"
+                ],
+                [
+                    "1",
+                    "Salt",
+                    "9001"
+                ],
+                [
+                    "1",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [],
+            "exp": "400",
+            "id": "47",
+            "items": [
+                "5439",
+                "5401",
+                "9001",
+                "6656"
+            ],
+            "name": "Clear Liquid Reagent",
+            "result": [
+                "5301"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Wild Grass",
+                    "5439"
+                ],
+                [
+                    "1",
+                    "Silver Azalea",
+                    "5402"
+                ],
+                [
+                    "1",
+                    "Sugar",
+                    "9002"
+                ],
+                [
+                    "1",
+                    "Purified Water",
+                    "6656"
+                ]
+            ],
+            "box": [],
+            "exp": "400",
+            "id": "48",
+            "items": [
+                "5439",
+                "5402",
+                "9002",
+                "6656"
+            ],
+            "name": "Pure Powder Reagent",
+            "result": [
+                "5302"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Insectivore Plant Sap",
+                    "5602"
+                ],
+                [
+                    "5",
+                    "Amanita Mushroom",
+                    "5419"
+                ]
+            ],
+            "box": [],
+            "exp": "700",
+            "id": "49",
+            "items": [
+                "5602",
+                "5419"
+            ],
+            "name": "Herbal Poison",
+            "result": [
+                "5603"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Regeneration",
+                    "6601"
+                ],
+                [
+                    "5",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "5",
+                    "Cedar Sap",
+                    "5010"
+                ],
+                [
+                    "3",
+                    "Trace of Battle",
+                    "5958"
+                ],
+                [
+                    "2",
+                    "Ghost Mushroom",
+                    "5414"
+                ]
+            ],
+            "box": [
+                "9871",
+                "9"
+            ],
+            "exp": "1610",
+            "id": "5",
+            "items": [
+                "6601",
+                "5301",
+                "5010",
+                "5958",
+                "5414"
+            ],
+            "name": "Elixir of Frenzy",
+            "result": [
+                "672",
+                "673"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Insectivore Plant Powder",
+                    "5601"
+                ],
+                [
+                    "1",
+                    "Powder of Darkness",
+                    "4801"
+                ]
+            ],
+            "box": [],
+            "exp": "700",
+            "id": "50",
+            "items": [
+                "5601",
+                "4801"
+            ],
+            "name": "Herbal Gunpowder",
+            "result": [
+                "5604"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "3",
+                    "Maple Sap",
+                    "5002"
+                ],
+                [
+                    "3",
+                    "Trace of Ascension",
+                    "5955"
+                ],
+                [
+                    "2",
+                    "Powder of Darkness",
+                    "4801"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "51",
+            "items": [
+                "5301",
+                "5002",
+                "5955",
+                "4801"
+            ],
+            "name": "Leather Glaze",
+            "result": [
+                "6183"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Spirit's Leaf",
+                    "5006"
+                ],
+                [
+                    "1",
+                    "Trace of the Earth",
+                    "5954"
+                ],
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "2",
+                    "Blood 5",
+                    "19"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "52",
+            "items": [
+                "5006",
+                "5954",
+                "5302",
+                "6208",
+                "6209",
+                "6219",
+                "6217",
+                "6222"
+            ],
+            "name": "Legendary Beast's Blood",
+            "result": [
+                "6351"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Monk's Branch",
+                    "5007"
+                ],
+                [
+                    "1",
+                    "Trace of Savagery",
+                    "5956"
+                ],
+                [
+                    "1",
+                    "Pure Powder Reagent",
+                    "5302"
+                ],
+                [
+                    "2",
+                    "Blood 4",
+                    "15"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "53",
+            "items": [
+                "5007",
+                "5956",
+                "5302",
+                "6213",
+                "6220",
+                "6221",
+                "6207"
+            ],
+            "name": "Tyrant's Blood",
+            "result": [
+                "6352"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Spirit's Leaf",
+                    "5006"
+                ],
+                [
+                    "1",
+                    "Powder of Darkness",
+                    "4801"
+                ],
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "2",
+                    "Blood 1",
+                    "16"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "54",
+            "items": [
+                "5006",
+                "4801",
+                "5301",
+                "6214",
+                "6218",
+                "6204",
+                "6216"
+            ],
+            "name": "Clown's Blood",
+            "result": [
+                "6353"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Bloody Tree Knot",
+                    "5005"
+                ],
+                [
+                    "1",
+                    "Powder of Flame",
+                    "4802"
+                ],
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "2",
+                    "Blood 2",
+                    "17"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "55",
+            "items": [
+                "5005",
+                "4802",
+                "5301",
+                "6205",
+                "6201",
+                "6202",
+                "6215",
+                "6206"
+            ],
+            "name": "Sinner's Blood",
+            "result": [
+                "6354"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Monk's Branch",
+                    "5007"
+                ],
+                [
+                    "1",
+                    "Trace of Ascension",
+                    "5955"
+                ],
+                [
+                    "1",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "2",
+                    "Blood 3",
+                    "18"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "56",
+            "items": [
+                "5007",
+                "5955",
+                "5301",
+                "6203",
+                "6212",
+                "6210"
+            ],
+            "name": "Wise Man's Blood",
+            "result": [
+                "6355"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Legendary Beast's Blood",
+                    "6351"
+                ],
+                [
+                    "1",
+                    "Red Tree Lump",
+                    "5011"
+                ],
+                [
+                    "1",
+                    "Fruit of Crimson Flame",
+                    "5201"
+                ],
+                [
+                    "1",
+                    "Powder of Crevice",
+                    "4803"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "57",
+            "items": [
+                "6351",
+                "5011",
+                "5201",
+                "4803"
+            ],
+            "name": "Oil of Regeneration",
+            "result": [
+                "6601"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Tyrant's Blood",
+                    "6352"
+                ],
+                [
+                    "1",
+                    "Old Tree Bark",
+                    "5008"
+                ],
+                [
+                    "1",
+                    "Fruit of Abundance",
+                    "5203"
+                ],
+                [
+                    "1",
+                    "Powder of Time",
+                    "4805"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "58",
+            "items": [
+                "6352",
+                "5008",
+                "5203",
+                "4805"
+            ],
+            "name": "Oil of Storms",
+            "result": [
+                "6602"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "1",
+                    "Monk's Branch",
+                    "5007"
+                ],
+                [
+                    "1",
+                    "Fruit of Nature",
+                    "5205"
+                ],
+                [
+                    "1",
+                    "Powder of Flame",
+                    "4802"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "59",
+            "items": [
+                "6353",
+                "5007",
+                "5205",
+                "4802"
+            ],
+            "name": "Oil of Fortitude",
+            "result": [
+                "6603"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Storms",
+                    "6602"
+                ],
+                [
+                    "4",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "4",
+                    "Fog Mushroom",
+                    "5415"
+                ],
+                [
+                    "3",
+                    "Trace of Hunting",
+                    "5959"
+                ],
+                [
+                    "6",
+                    "Fir Sap",
+                    "5009"
+                ]
+            ],
+            "box": [
+                "9870",
+                "12"
+            ],
+            "exp": "1610",
+            "id": "6",
+            "items": [
+                "6602",
+                "5301",
+                "5415",
+                "5959",
+                "5009"
+            ],
+            "name": "Golden Hand Elixir",
+            "result": [
+                "674",
+                "675"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "1",
+                    "Spirit's Leaf",
+                    "5006"
+                ],
+                [
+                    "1",
+                    "Fruit of the Sun",
+                    "5207"
+                ],
+                [
+                    "1",
+                    "Powder of Darkness",
+                    "4801"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "60",
+            "items": [
+                "6354",
+                "5006",
+                "5207",
+                "4801"
+            ],
+            "name": "Oil of Corruption",
+            "result": [
+                "6604"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Wise Man's Blood",
+                    "6355"
+                ],
+                [
+                    "1",
+                    "Bloody Tree Knot",
+                    "5005"
+                ],
+                [
+                    "1",
+                    "Fruit of Magic Power",
+                    "5211"
+                ],
+                [
+                    "1",
+                    "Powder of Earth",
+                    "4804"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "61",
+            "items": [
+                "6355",
+                "5005",
+                "5211",
+                "4804"
+            ],
+            "name": "Oil of Tranquility",
+            "result": [
+                "6605"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "1",
+                    "Fruit of Crimson Flame",
+                    "5201"
+                ],
+                [
+                    "8",
+                    "Melted Iron Shard",
+                    "4051"
+                ],
+                [
+                    "5",
+                    "Blood 3",
+                    "18"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "62",
+            "items": [
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5201",
+                "4051",
+                "6203",
+                "6212",
+                "6210",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Precision",
+            "result": [
+                "15101"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Crimson Flame - Power",
+                    "15002"
+                ],
+                [
+                    "1",
+                    "Fruit of Abundance",
+                    "5203"
+                ],
+                [
+                    "7",
+                    "Melted Lead Shard",
+                    "4054"
+                ],
+                [
+                    "4",
+                    "Blood 2",
+                    "17"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "63",
+            "items": [
+                "15002",
+                "5203",
+                "4054",
+                "6205",
+                "6201",
+                "6202",
+                "6215",
+                "6206",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Power",
+            "result": [
+                "15102"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Crimson Flame - Carnage",
+                    "15003"
+                ],
+                [
+                    "1",
+                    "Fruit of Nature",
+                    "5205"
+                ],
+                [
+                    "9",
+                    "Melted Copper Shard",
+                    "4057"
+                ],
+                [
+                    "3",
+                    "Blood 1",
+                    "16"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "64",
+            "items": [
+                "15003",
+                "5205",
+                "4057",
+                "6214",
+                "6218",
+                "6204",
+                "6216",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Carnage",
+            "result": [
+                "15103"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Crimson Flame - Carnage",
+                    "15004"
+                ],
+                [
+                    "1",
+                    "Fruit of the Sun",
+                    "5207"
+                ],
+                [
+                    "8",
+                    "Melted Tin Shard",
+                    "4060"
+                ],
+                [
+                    "3",
+                    "Blood 4",
+                    "15"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "65",
+            "items": [
+                "15004",
+                "5207",
+                "4060",
+                "6213",
+                "6220",
+                "6221",
+                "6207",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Carnage",
+            "result": [
+                "15104"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Crimson Flame - Carnage",
+                    "15005"
+                ],
+                [
+                    "1",
+                    "Fruit of Enchantment",
+                    "5209"
+                ],
+                [
+                    "10",
+                    "Melted Zinc Shard",
+                    "4063"
+                ],
+                [
+                    "5",
+                    "Blood 5",
+                    "19"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "66",
+            "items": [
+                "15005",
+                "5209",
+                "4063",
+                "6219",
+                "6209",
+                "6208",
+                "6217",
+                "6222",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Carnage",
+            "result": [
+                "15105"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Abundance - Armor",
+                    "15006"
+                ],
+                [
+                    "1",
+                    "Fruit of Magic Power",
+                    "5211"
+                ],
+                [
+                    "3",
+                    "Translucent Crystal",
+                    "4466"
+                ],
+                [
+                    "4",
+                    "Ash Sap",
+                    "5001"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "67",
+            "items": [
+                "15006",
+                "5211",
+                "4466",
+                "5001",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Armor",
+            "result": [
+                "15106"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Abundance - Vigor",
+                    "15007"
+                ],
+                [
+                    "1",
+                    "Fruit of Perfection",
+                    "5213"
+                ],
+                [
+                    "2",
+                    "Mud Crystal",
+                    "4467"
+                ],
+                [
+                    "4",
+                    "Maple Sap",
+                    "5002"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "68",
+            "items": [
+                "15007",
+                "5213",
+                "4467",
+                "5002",
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Vigor",
+            "result": [
+                "15107"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Abundance - Patience",
+                    "15008"
+                ],
+                [
+                    "1",
+                    "Fruit of Destruction",
+                    "5215"
+                ],
+                [
+                    "2",
+                    "Red Crystal",
+                    "4468"
+                ],
+                [
+                    "4",
+                    "Birch Sap",
+                    "5004"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "69",
+            "items": [
+                "15008",
+                "5215",
+                "4468",
+                "5004",
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Patience",
+            "result": [
+                "15108"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Fortitude",
+                    "6603"
+                ],
+                [
+                    "4",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "3",
+                    "Hump Mushroom",
+                    "5416"
+                ],
+                [
+                    "4",
+                    "Birch Sap",
+                    "5004"
+                ],
+                [
+                    "2",
+                    "Trace of Forest",
+                    "5960"
+                ]
+            ],
+            "box": [
+                "9869",
+                "18"
+            ],
+            "exp": "1610",
+            "id": "7",
+            "items": [
+                "6603",
+                "5301",
+                "5416",
+                "5004",
+                "5960"
+            ],
+            "name": "Elixir of Draining",
+            "result": [
+                "676",
+                "677"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Abundance - Healing",
+                    "15009"
+                ],
+                [
+                    "1",
+                    "Fruit of Crimson Flame",
+                    "5201"
+                ],
+                [
+                    "2",
+                    "Green Crystal",
+                    "4469"
+                ],
+                [
+                    "3",
+                    "Fir Sap",
+                    "5009"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "70",
+            "items": [
+                "15009",
+                "5201",
+                "4469",
+                "5009",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Heal",
+            "result": [
+                "15109"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Abundance - Resonance",
+                    "15010"
+                ],
+                [
+                    "1",
+                    "Fruit of Abundance",
+                    "5203"
+                ],
+                [
+                    "2",
+                    "Melted Silver Shard",
+                    "4251"
+                ],
+                [
+                    "3",
+                    "Pine Sap",
+                    "5003"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "71",
+            "items": [
+                "15010",
+                "5203",
+                "4251",
+                "5003",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Resonance",
+            "result": [
+                "15110"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Nature - Swiftness",
+                    "15011"
+                ],
+                [
+                    "1",
+                    "Fruit of the Sun",
+                    "5207"
+                ],
+                [
+                    "2",
+                    "Ruby",
+                    "4451"
+                ],
+                [
+                    "5",
+                    "Sunrise Herb",
+                    "5401"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "72",
+            "items": [
+                "15011",
+                "5207",
+                "4451",
+                "5401",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Swiftness",
+            "result": [
+                "15111"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Nature - Adamantine",
+                    "15012"
+                ],
+                [
+                    "1",
+                    "Fruit of Nature",
+                    "5205"
+                ],
+                [
+                    "2",
+                    "Sapphire",
+                    "4454"
+                ],
+                [
+                    "3",
+                    "Silver Azalea",
+                    "5402"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "73",
+            "items": [
+                "15012",
+                "5205",
+                "4454",
+                "5402",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Adamantine",
+            "result": [
+                "15112"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Nature - Ascension",
+                    "15013"
+                ],
+                [
+                    "1",
+                    "Fruit of Magic Power",
+                    "5211"
+                ],
+                [
+                    "1",
+                    "Topaz",
+                    "4457"
+                ],
+                [
+                    "3",
+                    "Fire Flake Flower",
+                    "5403"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "74",
+            "items": [
+                "15013",
+                "5211",
+                "4457",
+                "5403",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Ascension",
+            "result": [
+                "15113"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Nature - Descent",
+                    "15027"
+                ],
+                [
+                    "1",
+                    "Fruit of Enchantment",
+                    "5209"
+                ],
+                [
+                    "1",
+                    "Ruby",
+                    "4451"
+                ],
+                [
+                    "3",
+                    "Wild Grass",
+                    "5439"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "75",
+            "items": [
+                "15027",
+                "5209",
+                "4451",
+                "5439",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Descent",
+            "result": [
+                "15114"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Nature - Endurance",
+                    "15028"
+                ],
+                [
+                    "1",
+                    "Fruit of Perfection",
+                    "5213"
+                ],
+                [
+                    "2",
+                    "Topaz",
+                    "4457"
+                ],
+                [
+                    "4",
+                    "Dry Mane Grass",
+                    "5404"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "76",
+            "items": [
+                "15028",
+                "5213",
+                "4457",
+                "5404",
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Endurance",
+            "result": [
+                "15115"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of the Sun - Assault",
+                    "15014"
+                ],
+                [
+                    "1",
+                    "Fruit of Enchantment",
+                    "5209"
+                ],
+                [
+                    "2",
+                    "Emerald",
+                    "4460"
+                ],
+                [
+                    "5",
+                    "Blood 3",
+                    "18"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "77",
+            "items": [
+                "15014",
+                "5209",
+                "4460",
+                "6203",
+                "6212",
+                "6210",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Assault",
+            "result": [
+                "15116"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of the Sun - Sturdiness",
+                    "15015"
+                ],
+                [
+                    "1",
+                    "Fruit of Perfection",
+                    "5213"
+                ],
+                [
+                    "1",
+                    "Diamond",
+                    "4463"
+                ],
+                [
+                    "3",
+                    "Blood 2",
+                    "17"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "78",
+            "items": [
+                "15015",
+                "5213",
+                "4463",
+                "6205",
+                "6201",
+                "6202",
+                "6215",
+                "6206",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Sturdiness",
+            "result": [
+                "15117"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of the Sun - Valor",
+                    "15016"
+                ],
+                [
+                    "1",
+                    "Fruit of Destruction",
+                    "5215"
+                ],
+                [
+                    "3",
+                    "Translucent Crystal",
+                    "4466"
+                ],
+                [
+                    "5",
+                    "Blood 1",
+                    "16"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "79",
+            "items": [
+                "15016",
+                "5215",
+                "4466",
+                "6214",
+                "6218",
+                "6204",
+                "6216",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Valor",
+            "result": [
+                "15118"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "4",
+                    "Arrow Mushroom",
+                    "5408"
+                ],
+                [
+                    "4",
+                    "Fir Sap",
+                    "5009"
+                ],
+                [
+                    "3",
+                    "Black Stone Powder",
+                    "4901"
+                ]
+            ],
+            "box": [
+                "9867",
+                "18"
+            ],
+            "exp": "920",
+            "id": "8",
+            "items": [
+                "6354",
+                "5408",
+                "5009",
+                "4901"
+            ],
+            "name": "Elixir of Demihuman Hunt",
+            "result": [
+                "678",
+                "679"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of the Sun - Precision",
+                    "15029"
+                ],
+                [
+                    "1",
+                    "Fruit of Destruction",
+                    "5215"
+                ],
+                [
+                    "1",
+                    "Emerald",
+                    "4460"
+                ],
+                [
+                    "3",
+                    "Silk Honey Grass",
+                    "5405"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "80",
+            "items": [
+                "15029",
+                "5215",
+                "4460",
+                "5405",
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Precision",
+            "result": [
+                "15119"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Enchantment - Memory",
+                    "15017"
+                ],
+                [
+                    "1",
+                    "Fruit of Crimson Flame",
+                    "5201"
+                ],
+                [
+                    "2",
+                    "Mud Crystal",
+                    "4467"
+                ],
+                [
+                    "3",
+                    "Fortune Teller Mushroom",
+                    "5407"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "81",
+            "items": [
+                "15017",
+                "5201",
+                "4467",
+                "5407",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Memory",
+            "result": [
+                "15121"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Enchantment - Intimidation",
+                    "15018"
+                ],
+                [
+                    "1",
+                    "Fruit of Abundance",
+                    "5203"
+                ],
+                [
+                    "3",
+                    "Red Crystal",
+                    "4468"
+                ],
+                [
+                    "2",
+                    "Arrow Mushroom",
+                    "5408"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "82",
+            "items": [
+                "15018",
+                "5203",
+                "4468",
+                "5408",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Intimidation",
+            "result": [
+                "15122"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Enchantment - Vision",
+                    "15019"
+                ],
+                [
+                    "1",
+                    "Fruit of Nature",
+                    "5205"
+                ],
+                [
+                    "2",
+                    "Green Crystal",
+                    "4469"
+                ],
+                [
+                    "3",
+                    "Dwarf Mushroom",
+                    "5409"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "83",
+            "items": [
+                "15019",
+                "5205",
+                "4469",
+                "5409",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Vision",
+            "result": [
+                "15123"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Magic Crystal of Enchantment - Agility",
+                    "15020"
+                ],
+                [
+                    "1",
+                    "Fruit of the Sun",
+                    "5207"
+                ],
+                [
+                    "4",
+                    "Cloud Mushroom",
+                    "5410"
+                ],
+                [
+                    "2",
+                    "Melted Silver Shard",
+                    "4251"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "800",
+            "id": "84",
+            "items": [
+                "15020",
+                "5207",
+                "5410",
+                "4251",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Agility",
+            "result": [
+                "15124"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Crimson Flame",
+                    "5202"
+                ],
+                [
+                    "8",
+                    "Melted Iron Shard",
+                    "4051"
+                ],
+                [
+                    "2",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "85",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5202",
+                "4051",
+                "6353",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Durability",
+            "result": [
+                "15126"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Abundance",
+                    "5204"
+                ],
+                [
+                    "7",
+                    "Melted Lead Shard",
+                    "4054"
+                ],
+                [
+                    "2",
+                    "Wise Man's Blood",
+                    "6355"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "86",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5204",
+                "4054",
+                "6355",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Absorption",
+            "result": [
+                "15127"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Nature",
+                    "5206"
+                ],
+                [
+                    "9",
+                    "Melted Copper Shard",
+                    "4057"
+                ],
+                [
+                    "2",
+                    "Legendary Beast's Blood",
+                    "6351"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "87",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5206",
+                "4057",
+                "6351",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - MP Recovery",
+            "result": [
+                "15128"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of the Sun",
+                    "5208"
+                ],
+                [
+                    "3",
+                    "Melted Silver Shard",
+                    "4251"
+                ],
+                [
+                    "2",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "88",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5208",
+                "4251",
+                "6354",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Back Attack",
+            "result": [
+                "15129"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Enchantment",
+                    "5210"
+                ],
+                [
+                    "2",
+                    "Melted Gold Shard",
+                    "4254"
+                ],
+                [
+                    "2",
+                    "Tyrant's Blood",
+                    "6352"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "89",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5210",
+                "4254",
+                "6352",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Down Attack",
+            "result": [
+                "15130"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Oil of Corruption",
+                    "6604"
+                ],
+                [
+                    "4",
+                    "Clear Liquid Reagent",
+                    "5301"
+                ],
+                [
+                    "5",
+                    "Bluffer Mushroom",
+                    "5417"
+                ],
+                [
+                    "5",
+                    "Pine Sap",
+                    "5003"
+                ],
+                [
+                    "2",
+                    "Trace of Violence",
+                    "5961"
+                ]
+            ],
+            "box": [
+                "9870",
+                "9"
+            ],
+            "exp": "1610",
+            "id": "9",
+            "items": [
+                "6604",
+                "5301",
+                "5417",
+                "5003",
+                "5961"
+            ],
+            "name": "Elixir of Perforation",
+            "result": [
+                "680",
+                "681"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Magic Power",
+                    "5212"
+                ],
+                [
+                    "2",
+                    "Melted Platinum Shard",
+                    "4257"
+                ],
+                [
+                    "2",
+                    "Wise Man's Blood",
+                    "6355"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "90",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5212",
+                "4257",
+                "6355",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Air Attack",
+            "result": [
+                "15131"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Perfection",
+                    "5214"
+                ],
+                [
+                    "2",
+                    "Polished Opal",
+                    "4260"
+                ],
+                [
+                    "2",
+                    "Legendary Beast's Blood",
+                    "6351"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "91",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5214",
+                "4260",
+                "6351",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Critical Hit",
+            "result": [
+                "15132"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Destruction",
+                    "5216"
+                ],
+                [
+                    "8",
+                    "Melted Tin Shard",
+                    "4060"
+                ],
+                [
+                    "2",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "92",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5216",
+                "4060",
+                "6354",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Speed Attack",
+            "result": [
+                "15133"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Crimson Flame",
+                    "5202"
+                ],
+                [
+                    "6",
+                    "Melted Zinc Shard",
+                    "4063"
+                ],
+                [
+                    "2",
+                    "Tyrant's Blood",
+                    "6352"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "93",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5202",
+                "4063",
+                "6352",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Counter Attack",
+            "result": [
+                "15134"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Abundance",
+                    "5204"
+                ],
+                [
+                    "3",
+                    "Translucent Crystal",
+                    "4466"
+                ],
+                [
+                    "2",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "94",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5204",
+                "4466",
+                "6353",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Siege",
+            "result": [
+                "15135"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Nature",
+                    "5206"
+                ],
+                [
+                    "2",
+                    "Mud Crystal",
+                    "4467"
+                ],
+                [
+                    "2",
+                    "Clown's Blood",
+                    "6353"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "95",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5206",
+                "4467",
+                "6353",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Evasion",
+            "result": [
+                "15136"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of the Sun",
+                    "5208"
+                ],
+                [
+                    "2",
+                    "Red Crystal",
+                    "4468"
+                ],
+                [
+                    "2",
+                    "Wise Man's Blood",
+                    "6355"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "96",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5208",
+                "4468",
+                "6355",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Melee Defense",
+            "result": [
+                "15137"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Enchantment",
+                    "5210"
+                ],
+                [
+                    "2",
+                    "Green Crystal",
+                    "4469"
+                ],
+                [
+                    "2",
+                    "Legendary Beast's Blood",
+                    "6351"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "97",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5210",
+                "4469",
+                "6351",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Ranged Defense",
+            "result": [
+                "15138"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Magic Power",
+                    "5212"
+                ],
+                [
+                    "2",
+                    "Melted Silver Shard",
+                    "4251"
+                ],
+                [
+                    "2",
+                    "Sinner's Blood",
+                    "6354"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "98",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5212",
+                "4251",
+                "6354",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Magic Defense",
+            "result": [
+                "15139"
+            ],
+            "skill": "Alchemy"
+        },
+        {
+            "amounts": [
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ],
+                [
+                    "2",
+                    "Essence of Perfection",
+                    "5214"
+                ],
+                [
+                    "4",
+                    "Ruby",
+                    "4451"
+                ],
+                [
+                    "2",
+                    "Tyrant's Blood",
+                    "6352"
+                ],
+                [
+                    "1",
+                    "Gemstones",
+                    "14"
+                ]
+            ],
+            "box": [],
+            "exp": "1400",
+            "id": "99",
+            "items": [
+                "15002",
+                "15001",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020",
+                "5214",
+                "4451",
+                "6352",
+                "15001",
+                "15002",
+                "15003",
+                "15004",
+                "15005",
+                "15006",
+                "15007",
+                "15008",
+                "15009",
+                "15010",
+                "15011",
+                "15012",
+                "15013",
+                "15014",
+                "15015",
+                "15016",
+                "15017",
+                "15018",
+                "15019",
+                "15020"
+            ],
+            "name": "Magic Crystal of Infinity - Energy",
+            "result": [
+                "15146"
+            ],
+            "skill": "Alchemy"
+        }
+    ]
+}
